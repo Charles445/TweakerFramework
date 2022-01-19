@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tweakerframework",
+  "name": "Tweaker Framework",
+  "description": "Default mod info for the tweaker framework. FIX ME!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Anonymous"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
